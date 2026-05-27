@@ -396,6 +396,13 @@ logEach( '%f, %f, %f', arr[ 0 ], arr[ 1 ], arr[ 2 ] );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/laplace`][@stdlib/random/base/laplace]</span><span class="delimiter">: </span><span class="description">Laplace (double exponential) distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-array/laplace`][@stdlib/random/array/laplace]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Laplace (double exponential) distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -483,6 +490,12 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
 
 [@stdlib/ndarray/base/broadcast-shapes]: https://github.com/stdlib-js/ndarray-base-broadcast-shapes
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/laplace]: https://github.com/stdlib-js/random-array-laplace
+
+<!-- </related-links> -->
 
 </section>
 
